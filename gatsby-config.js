@@ -1,15 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: 'One World Marathon',
+    title: 'One World Hackathon',
     description: 'The One World Strong Foundation embodies the core principles of connection and cooperation supporting the belief that people around the world should work together toward common goals. To reinforce that message, we propose a marathon where teams of participants from around the world will combine their efforts to achieve a total of 26.2 miles (or 42.195km) over a four-day weekend.',
     contact: {
       phone: 'XXX XXX XXX',
-      email: 'someone@oneworldfoundation.org',
+      email: '@oneworldhack',
     },
     menuLinks: [
       {
         name: 'Information',
         link: '/information',
+      },
+      {
+        name: 'Team',
+        link: '/team',
       },
       {
         name: 'Contact',

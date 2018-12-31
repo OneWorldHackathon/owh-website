@@ -14,12 +14,12 @@ const Home = (props) => {
       <Helmet>
         <meta
           name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          content="One World Hackathon coding event for One World Marathon 2019"
         />
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>One World Marathon</h1>
+          <h1>One World Hackathon</h1>
           <p>
             The One World Strong Foundation embodies the core principles of connection and cooperation supporting the belief that people around the world should work together toward common goals.
           </p>
