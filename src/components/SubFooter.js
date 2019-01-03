@@ -8,12 +8,9 @@ const SubFooter = props => (
         <div className="col-12">
           <div className="sub-footer">
             <ul>
+              
               <li>
-                <strong>Phone: </strong>
-                {props.data.site.siteMetadata.contact.phone}
-              </li>
-              <li>
-                <strong>Email: </strong>
+                <strong>Twitter: </strong>
 {' '}
                 <a href={`mailto:${props.data.site.siteMetadata.contact.email}`}>
                   {props.data.site.siteMetadata.contact.email}
