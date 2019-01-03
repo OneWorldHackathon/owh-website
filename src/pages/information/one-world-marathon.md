@@ -1,6 +1,6 @@
 ---
-path: '/information/date'
-title: 'Date and Location'
+path: '/information/one-world-marathon'
+title: 'One World Marathon'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
 featured: true

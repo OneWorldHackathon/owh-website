@@ -1,7 +1,7 @@
 ---
-path: '/information/communication'
-title: "Communication"
-date: 2018-11-28T15:14:54+10:00
+path: '/information/one-world-strong-foundation'
+title: "One World Strong"
+date: 2019-11-28T15:14:54+10:00
 image: "/services/default.png"
 featured: true
 draft: false

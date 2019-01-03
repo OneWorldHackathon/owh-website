@@ -1,6 +1,6 @@
 ---
-path: '/information/opportunities'
-title: 'Opportunities'
+path: '/information/one-world-hackathon'
+title: 'One World Hackathon'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_1013177.png'
 draft: false
