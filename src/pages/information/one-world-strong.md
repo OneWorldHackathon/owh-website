@@ -7,4 +7,6 @@ featured: true
 draft: false
 ---
 
-Using existing social media and the One World Marathon website, participants can organize, communicate and track the contributions of team members throughout their training and during marathon weekend. They can also use these channels to train together, communicate with one another, share their experiences and spread the marathon’s message of cross-cultural collaboration, interpersonal connection and teamwork. Participants will upload their results to our OWM website, and we will track each team’s progress throughout the weekend. 
+Founded by survivors of the 2013 Boston Marathon bombings, we are a growing international community of survivors who have overcome serious injury and psychological trauma to begin life anew.
+
+[Visit website](https://www.oneworldstrong.org)
