@@ -1,6 +1,6 @@
 ---
 path: '/team/aiden-watt'
-title: 'Aiden Watt'
+title: 'Aidan Watt'
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: 
@@ -9,4 +9,4 @@ email: ''
 linkedinurl: ''
 weight: 2
 ---
-Aiden is a Partner at Hotfoot Design.
+Aidan is a Partner at Hotfoot Design.
