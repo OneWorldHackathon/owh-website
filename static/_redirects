@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://mystifying-kilby-5d5a08.netlify.com/* http://www.oneworldhackathon.org/:splat 301!
