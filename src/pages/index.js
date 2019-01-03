@@ -29,6 +29,9 @@ const Home = (props) => {
           <p>
             Our objective is to build a web app to support the One World Marathon project.
           </p>
+          <p>
+            Please contact us on Twitter if you would like to get involved.
+          </p>
         </div>
       </div>
 
