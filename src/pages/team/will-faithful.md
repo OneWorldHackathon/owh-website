@@ -1,6 +1,6 @@
 ---
-path: '/team/jon-hill'
-title: 'Jon Hill'
+path: '/team/will-faithful'
+title: 'Will Faithful'
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: ''
@@ -10,4 +10,4 @@ linkedinurl: ''
 weight: 1
 ---
 
-Jon Hill is Technical Director at Vibe Tickets.
+Will is a Consultant Java & Machine Learning Developer at Sourcepulp.

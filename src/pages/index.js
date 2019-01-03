@@ -21,7 +21,10 @@ const Home = (props) => {
         <div className="container">
           <h1>One World Hackathon</h1>
           <p>
-            The One World Strong Foundation embodies the core principles of connection and cooperation supporting the belief that people around the world should work together toward common goals.
+            A 26 hour marathon coding session setup to support the projects of One World Strong Foundation. The first hackathon will take place in Lancaster, UK on January 12th and 13th.
+          </p>
+          <p>
+           Our objective is to build a web app to support the One World Marathon project.
           </p>
         </div>
       </div>
