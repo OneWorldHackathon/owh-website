@@ -16,3 +16,8 @@
     background-position: 100% -70px;
   }
 }
+
+.hpbg {width:100%;}
+@media only screen and (min-width: 1000px) {
+  .hpbg {max-width:500px;}
+}

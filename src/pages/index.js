@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
+import owh from '../images/OWH_Graphic.png';
 
 const Home = (props) => {
   const markdown = props.data.allMarkdownRemark.edges;
@@ -19,7 +20,7 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>One World Hackathon</h1>
+          <img src={owh} alt="One World Hackathon" className="hpbg mb-5"/>
           <p>
             A 26 hour marathon coding session setup to support the projects of One World Strong Foundation.
           </p>
@@ -27,7 +28,7 @@ const Home = (props) => {
             The first hackathon will take place in Lancaster, UK on January 12th and 13th.
           </p>
           <p>
-            Our objective is to build a web app to support the One World Marathon project.
+            Our objective is to build a web app to support the <a href="https://oneworldmarathon.org">One World Marathon</a> project.
           </p>
           <p>
             Please contact us on Twitter if you would like to get involved.
