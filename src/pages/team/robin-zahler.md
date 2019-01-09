@@ -9,4 +9,4 @@ email: ''
 linkedinurl: ''
 weight: 2
 ---
-Owner Robin Zahler Design + Photography
+Robin is Owner of Robin Zahler Design + Photography.
