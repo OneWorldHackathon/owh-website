@@ -1,9 +1,9 @@
 ---
-path: '/team/aiden-watt'
+path: '/team/aidan-watt'
 title: 'Aidan Watt'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 
+image: '/team/Aidan_Profile.jpg'
 jobtitle: 'OWH Front End Developer'
 email: ''
 linkedinurl: ''

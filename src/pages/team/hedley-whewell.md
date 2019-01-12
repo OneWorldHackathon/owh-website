@@ -3,7 +3,7 @@ path: '/team/hedley-whewell'
 title: 'Hedley Whewell'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 
+image: '/team/Hed_Profile.jpg'
 jobtitle: 'OWH UX / UI Designer'
 email: ''
 linkedinurl: ''
