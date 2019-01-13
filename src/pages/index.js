@@ -20,7 +20,7 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>ONE <br/>WORLD <br/>HACKATHON</h1>
+          <h1>ONE <br/>WORLD <br/>HAckATHON</h1>
           <span className="hash">#</span><h2 className="inline"><span className="one">ONE</span><span className="two">WORLD</span><span className="three">HACK</span></h2>
           <p>
             A 26 hour marathon coding session setup to support the projects of One World Strong Foundation.
