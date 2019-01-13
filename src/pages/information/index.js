@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import SEO from '../../components/SEO';
 import Layout from '../../layouts/index';
+import timeline from '../../images/OWS_Timeline.png';
 
 const Information = (props) => {
   const information = props.data.allMarkdownRemark.edges;
@@ -33,6 +34,9 @@ const Information = (props) => {
             </div>
           ))}
         </div>
+      </div>
+      <div className="container">
+        <img src={timeline} className="fullwidth pb-6"/>
       </div>
     </Layout>
   );
