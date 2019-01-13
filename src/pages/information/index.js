@@ -7,12 +7,12 @@ const Information = (props) => {
   const information = props.data.allMarkdownRemark.edges;
   return (
     <Layout bodyClass="page-services">
-      <SEO title="Information" />
+      <SEO title="INFORMATION" />
       <div className="intro">
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Information</h1>
+              <h1>INFORMATION</h1>
             </div>
           </div>
         </div>

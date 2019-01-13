@@ -12,7 +12,7 @@ const Team = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Meet The Team</h1>
+              <h1>MEET THE TEAM</h1>
               <p>
                 Our team is made up of digital creative people from Lancaster and the wider world.
               </p>

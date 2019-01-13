@@ -5,12 +5,12 @@ import Call from '../../components/Call';
 
 const Contact = props => (
   <Layout bodyClass="page-contact">
-    <SEO title="Contact" />
+    <SEO title="CONTACT" />
     <div className="intro intro-small">
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <h1>Contact</h1>
+            <h1>CONTACT</h1>
           </div>
         </div>
       </div>

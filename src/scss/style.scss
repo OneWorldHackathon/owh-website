@@ -1,6 +1,7 @@
 // Font
 @import url('https://fonts.googleapis.com/css?family=Lora:400|Open+Sans:400,700');
 
+
 // Bootstrap
 @import 'bootstrap/functions';
 @import 'bootstrap-variables';
@@ -92,3 +93,32 @@
 //   }
 // }
 
+
+@font-face {
+  font-family: 'Kremlin';
+  src: url('../fonts/kremlin.ttf'); /* IE9 Compat Modes */
+}
+
+.intro h1 {
+  font-family: Kremlin;
+  font-size:90px;
+  color:#000000;
+  line-height: 80px;
+}
+
+.intro h2 {
+	font-family: Kremlin;
+}
+
+@media (max-width: 768px) {
+	.intro h1 {
+		font-size:50px;
+		line-height: 50px;
+	}
+}
+
+.inline {display: inline;font-size: 50px;}
+.hash {font-size: 45px;color:#90d1cb}
+.one {color:#90d1cb;}
+.two{color:#4b8333;}
+.three {color:#91cd4a;}
